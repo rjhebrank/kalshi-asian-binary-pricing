@@ -99,8 +99,8 @@ That is **13.6% on the bankroll with a 9.9% maximum drawdown**. The 15-minute
 book alone drew down $69.50, or 13.9% of the bankroll, which is larger than the
 total return.
 
-*Real money, $500 of capital, 54 trades over six weeks. I am an undergraduate
-student, not a licensed investment adviser. Fifty-four trades is not a
+*A personal account funded with $500 of my own money, 54 trades over six weeks.
+I am an undergraduate student, not a licensed investment adviser. Fifty-four trades is not a
 statistical sample: the Sharpe and Sortino figures describe this period only,
 are not annualized, and should not be read as an estimate of anything
 forward-looking. Raw trade records are not published here. Nothing on this page
